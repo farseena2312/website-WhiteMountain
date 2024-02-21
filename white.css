@@ -1,0 +1,240 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-header {
+    background-color: #fdf6eb;
+    width: 100%;
+    height: 100px;
+}
+.logo{
+    padding-left: 160px;
+    padding-top: 20px;
+}
+.ice-makers{
+    position: absolute;
+    top: 35px;
+    padding-left: 470px;
+    line-height: 1.25 rem;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.recipes{
+    position: absolute;
+    top: 35px;
+    padding-left: 620px;
+    line-height: 14px;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.service{
+    position: absolute;
+    top: 35px;
+    padding-left: 780px;
+    line-height: 14px;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.story{
+    position: absolute;
+    top: 35px;
+    padding-left: 695px;
+    line-height: 14px;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.buy{
+    position: absolute;
+    top: 35px;
+    padding-left: 920px;
+    line-height: 14px;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.search-icon{
+    padding-left: 1020px;
+    top: 30px;
+    position: absolute;
+}
+.container-ele {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  padding-top: 40px;
+}
+
+.electrical-icecream{
+  flex:1;
+}
+.electricice-img{
+  width: 100%;
+  height:600px;
+}
+
+.text-content{
+  flex:1;
+   background-color:#fdf6eb; 
+  background-size: cover;
+  background-position: center;
+  color: black; 
+}
+
+
+.title-electric{
+  font-size: 40px;
+    font-weight: bold;
+    padding-top: 200px;
+    line-height: 1.5;
+    text-align: center;
+}
+    
+  .para-electric{
+    font-weight: lighter;
+    font-size: 19px;
+    line-height: 1.5;
+    margin-top: 10px;
+    text-align:center;
+    margin-left: auto;
+    font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  
+  }
+ .small-box1 {
+    width: 280px; 
+    height: 50px;
+    margin-top: 10px; 
+    background-color:#fdf6eb; 
+    border: 1px solid black; 
+    margin-left: 200px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;    
+    
+  }
+  .container-hand{
+    display:flex;
+    justify-content: center;
+    padding-top: 40px;
+    width: 100%;
+  }
+  .hand-img{
+  width:100%;
+  height: 600px;
+  }
+  .hand-content {
+    background-color:#fdf6eb;
+    width: 57%;
+  }
+  .title-hand{
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: center;
+    margin-top: 200px;
+    padding-left: 10px;
+  }
+  .para-hand{
+    font-weight: lighter;
+    font-size: 15px;
+    line-height: 1.5;
+    margin-top: 10px;
+    text-align:center;
+    font-family: "Roboto", sans-serif;
+     font-weight: 400;
+    font-style: normal;
+    
+}
+.small-box2 {
+    width: 290px; 
+    height: 50px; 
+    border: 1px solid black; 
+    margin-left: 200px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;  
+    margin-top: 20px;
+}
+
+.footer-img {
+    margin-top:0;
+}
+.back-top{
+    padding-left: 680px;
+    font-size: 16px;
+    font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+    line-height: 1.28;
+    letter-spacing: normal;
+    color: #696158;
+   cursor: pointer;   
+}
+.container3{
+    margin-top: 50px;
+}
+.hori-line {
+    width: 100%;
+    height: 1px; /* Adjust thickness as needed */
+    background-color: black;
+    margin-top: 20px;
+}
+
+.container4{
+    margin-top: 1px;
+    background-color:#fdf6eb; 
+    height: 350px;
+}
+.about-table{
+    padding-top: 50px;
+    padding-left: 200px;
+    text-align: left;
+}
+.about-table td+td{
+    padding-left: 110px;
+    padding-top: 20px;
+}
+
+th {
+    color: 696158 ; 
+    font-weight: 700;
+}
+
+.about-table th+th{
+    padding-left: 100px;
+  }
+  .about-table td{
+    font-size: 14px;
+    font-weight: lighter;
+    font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  
+  }
+  .footer-part {
+    margin-top: 0;
+    background-color:#103C35;
+    width: 100%;
+    height: 100px;
+}
