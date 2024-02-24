@@ -80,6 +80,7 @@
   width: 100%;
   justify-content: center;
   padding-top: 40px;
+    height:600px;
 }
 
 .electrical-icecream{
@@ -87,7 +88,7 @@
 }
 .electricice-img{
   width: 100%;
-  height:600px;
+  height:550px;
 }
 
 .text-content{
